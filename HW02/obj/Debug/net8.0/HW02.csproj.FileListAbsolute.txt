@@ -1,0 +1,15 @@
+F:\Лина\Учеба\Тестирование\Homework\HW02\bin\Debug\net8.0\HW02.exe
+F:\Лина\Учеба\Тестирование\Homework\HW02\bin\Debug\net8.0\HW02.deps.json
+F:\Лина\Учеба\Тестирование\Homework\HW02\bin\Debug\net8.0\HW02.runtimeconfig.json
+F:\Лина\Учеба\Тестирование\Homework\HW02\bin\Debug\net8.0\HW02.dll
+F:\Лина\Учеба\Тестирование\Homework\HW02\bin\Debug\net8.0\HW02.pdb
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.csproj.AssemblyReference.cache
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.AssemblyInfoInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.AssemblyInfo.cs
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.csproj.CoreCompileInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.dll
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\refint\HW02.dll
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.pdb
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\HW02.genruntimeconfig.cache
+F:\Лина\Учеба\Тестирование\Homework\HW02\obj\Debug\net8.0\ref\HW02.dll
